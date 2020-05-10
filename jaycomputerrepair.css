@@ -1,0 +1,154 @@
+body {background-color:#40e0d0;
+}
+
+.banner
+{
+height:89px;
+ width:100px;
+border-radius:15px;
+margin-left:auto;
+margin-right:auto;
+ width:800px;
+}
+#wrapper {width:980px;  background-color:#cccccc; margin-left:auto; margin-right:auto; 
+box-shadow:5px 5px 10px 10px;
+ }
+
+
+
+.banner img
+{
+margin-left:auto;
+margin-right:auto;
+display:block;
+}
+
+nav {
+/*background-color:#000000;*/
+background-color:#FFFFCC; 
+ 
+padding:3px 3px 3px 32px;
+float: none;
+border: 2px solid black;
+box-shadow:5px 10px 10px 5px;
+}
+
+nav ul{
+list-style-type:none;
+padding-left: 0;
+font-weight:bold;
+font-size:1.2em;
+margin: 0;
+text-align:center;
+width:980px;
+height:60px;
+min-width:860px;
+margin-top:10px;
+margin-bottom:10px;
+padding-top:3px;
+padding-bottom:3px;
+
+}
+
+nav a{
+color:#ffffff;}
+
+nav li{
+display:inline;
+line-height:250%;
+padding:3px;
+float:left;
+}
+
+nav a {text-decoration:none;
+font-weight:bold;
+padding: 3px;
+display: block;
+}
+
+nav a:link {color:#0A64A4; 
+}
+nav a:visited {color:#FF6C00;         
+}
+
+nav a:hover {color:#14D100;
+}
+
+
+.centerHeader{color:#000000; text-align:center;}
+
+
+.mainContent{padding-top:10px;
+padding-bottom: 15px;
+padding-left:100px;
+}
+
+.clearright {clear:right;
+float:right;
+overflow:auto;
+padding-right:25px;
+margin-right:5px;
+padding-left:10px;
+margin-left:5px;
+}
+
+
+.clearright2 {clear:right;
+float:right;
+overflow:auto;
+padding-right:25px;
+margin-right:5px;
+padding-left:10px;
+margin-left:5px;
+padding-bottom: 10px;
+}
+
+
+/*	Table configuration */	
+table {	border: 1px solid #3399CC;
+		width: 80%;
+		border-spacing: 0;
+	}
+
+td, th { padding: 5px;
+		  border: 1px solid #3399CC;
+		}
+
+td { text-align: center; }
+.text { text-align: left;}
+
+	   
+/*The following is styling for the Contact Form*/
+label { float: left;
+	  display: block;
+	  text-align: right;
+	  padding-right: 10px;
+	  width: 120px;
+	  }
+input, textarea {margin-bottom: 20px;
+			 display: block;
+			 }
+
+#youTubeLink {padding-top:3px;
+padding-bottom: 3px;
+padding-right:30px;
+padding-left:10px;
+clear:right;
+float:right;
+overflow:auto;
+
+}
+
+
+
+footer  {   background-color: #FFFFFF;
+		  margin-left:2px;
+		  padding: 5px;
+		  padding-bottom: 15px;
+		  font-size: 80%;
+		  font-style: italic;
+		  font-family:Arial, "Times New Roman", serif;
+		text-align:center;
+		
+	   }
+
